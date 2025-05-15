@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 May 2025 12:29:31 at https://celektro.cz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://celektro.cz/ -O1 "C:\My Web Sites\celektro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:30:00	Error: 	"Method Not Allowed" (405) at link https://celektro.cz/xmlrpc.php (from https://celektro.cz/)
+12:30:25	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/2 (from https://celektro.cz/)
+12:30:25	Error: 	"Forbidden" (403) at link https://celektro.cz/wp-content/plugins/wpdm-premium-packages/ (from https://celektro.cz/)
+12:31:00	Error: 	"Not Found" (404) at link https://celektro.cz/wp-content/plugins/symple-shortcodes/shortcodes/css/images/bullets-black.png (from https://celektro.cz/wp-content/plugins/symple-shortcodes/shortcodes/css/symple_shortcodes_styles.css?ver=6.1.7)
+12:31:02	Warning: 	Moved Permanently for celektro.cz/robots.txt
+12:31:02	Warning: 	Redirected link is identical because of 'URL Hack' option: celektro.cz/robots.txt and https://celektro.cz/robots.txt
+12:31:02	Warning: 	Warning moved treated for celektro.cz/robots.txt (real one is https://celektro.cz/robots.txt)
+12:31:02	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/5 (from https://celektro.cz/produkty-ceny/)
+12:31:02	Warning: 	Moved Permanently for https://celektro.cz/?p=5
+12:31:02	Warning: 	File has moved from https://celektro.cz/?p=5 to https://celektro.cz/produkty-ceny/
+12:31:02	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/31 (from https://celektro.cz/vstup-pro-uzivatele/)
+12:31:02	Warning: 	Moved Permanently for https://celektro.cz/?p=31
+12:31:02	Warning: 	File has moved from https://celektro.cz/?p=31 to https://celektro.cz/vstup-pro-uzivatele/
+12:31:02	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/7 (from https://celektro.cz/reference-letak-kontakty/)
+12:31:02	Warning: 	Moved Permanently for https://celektro.cz/?p=7
+12:31:02	Warning: 	File has moved from https://celektro.cz/?p=7 to https://celektro.cz/reference-letak-kontakty/
+12:31:02	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/116 (from https://celektro.cz/mapa-webu/)
+12:31:02	Warning: 	Moved Permanently for https://celektro.cz/?p=116
+12:31:02	Warning: 	File has moved from https://celektro.cz/?p=116 to https://celektro.cz/mapa-webu/
+12:31:21	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/categories/1 (from https://celektro.cz/aktualne/nezarazene/)
+12:31:21	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/posts/1 (from https://celektro.cz/ahoj-vsichni/)
+12:31:21	Warning: 	Moved Permanently for https://celektro.cz/?p=1
+12:31:21	Warning: 	File has moved from https://celektro.cz/?p=1 to https://celektro.cz/ahoj-vsichni/
+12:31:21	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/479 (from https://celektro.cz/cart/)
+12:31:21	Warning: 	Moved Permanently for https://celektro.cz/?p=479
+12:31:21	Warning: 	File has moved from https://celektro.cz/?p=479 to https://celektro.cz/cart/
+12:31:21	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/480 (from https://celektro.cz/purchases/)
+12:31:21	Warning: 	Moved Permanently for https://celektro.cz/?p=480
+12:31:21	Warning: 	File has moved from https://celektro.cz/?p=480 to https://celektro.cz/purchases/
+12:31:25	Error: 	"Unauthorized" (401) at link https://celektro.cz/wp-json/wp/v2/pages/68 (from https://celektro.cz/reference/)
+12:31:25	Warning: 	Moved Permanently for https://celektro.cz/?p=68
+12:31:25	Warning: 	File has moved from https://celektro.cz/?p=68 to https://celektro.cz/reference/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 59 seconds : 161 links scanned, 138 files written (7829420 bytes overall) [4641317 bytes received at 39002 bytes/sec], 4379228 bytes transferred using HTTP compression in 85 files, ratio 24%
+(13 errors, 19 warnings, 0 messages)
